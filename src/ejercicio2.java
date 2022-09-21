@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*  Realiza un programa que solicite un número y diga si es positivo o negativo*/
 public class ejercicio2 {
     public static void main(String[] args) {
         int i=0;

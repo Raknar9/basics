@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Realiza un programa que solicite un número entre 1 y 1000 e indique cuántos dígitos tiene */
 public class ejercicio4 {
     public static void main(String[] args) {
         int i=0;

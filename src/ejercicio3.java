@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+/*Realiza un programa que solicite tres números y los pinte en la pantalla ordenados de menor a mayor.
+Si el usuario introduce el 10, el 20 y el 2, el programa mostrará: “2 10 20”  */
 public class ejercicio3  {
     public static void main(String[] args) {
         int i=0,j=0,z=0;

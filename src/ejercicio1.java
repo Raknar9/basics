@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ /*Haz un programa que solicite dos números y diga si son o no iguales  */
 public class ejercicio1 {
     public static void main(String[] args) {
         int i=0,j=0;

@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/* Haz un programa que calcule el área de diferentes forma geométricas. Puedes hacer un menú donde el usuario pueda escoger entre algunas
+de ellas (cuadrado, rectángulo, círculo, triángulo, . . .).
+ El programa deberá pedir también las medidas necesarias y, finalmente, mostrará el área de la figura. */
 public class ejercicio5 {
     public static void main(String[] args) {
     menu();
