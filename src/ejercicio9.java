@@ -18,6 +18,7 @@ public class ejercicio9 {
             {
                 System.out.printf(""+a+"\n");
                 a++;
+
             }
         }
         else if(b<a)
